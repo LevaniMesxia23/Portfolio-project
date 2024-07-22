@@ -13,30 +13,23 @@ export const About = () => {
         <div>
           <Reveal>
             <p className={`${styles.aboutText} ${styles.highlightFirstLetter}`}>
-              Hey! I&apos;m Levani, if you haven&apos;t already gathered that by
-              now. I&apos;m a painter turned software engineer from Daytona,
-              Florida. I specialize in the backend, primarily Node and Rust, but
-              love building with whatever tools are right for the job.
+              Hey! I&apos;m Levani, I started learning programming in 2023. Since the beginning of my studies, I have not missed a single day, I really enjoy creating something new and being in close relationship with technology.
             </p>
           </Reveal>
           <Reveal>
             <p className={styles.aboutText}>
-              I currently work for Google on Google Photos. I also toss in my ¢2
-              with the design systems teams from time to time (once an artist,
-              always an artist, amirite?).
+              I currently work in Upwork.
             </p>
           </Reveal>
           <Reveal>
             <p className={styles.aboutText}>
-              Outside of work, I still love to paint. Any given Sunday
-              you&apos;ll find me scribbling some happy clouds with my son ☁️ I
-              even teach courses online if you&apos;re looking to learn!
+            In addition to programming, I love sports, I try to constantly develop myself, mental ability is important, but I always try to be physically healthy and strong.
             </p>
           </Reveal>
           <Reveal>
             <p className={styles.aboutText}>
               I&apos;m passively looking for new positions where I can merge my
-              love for code with my love for the canvas. If you think
+              love for code. If you think
               you&apos;ve got an opening that I might like, let&apos;s connect
               🔗
             </p>
