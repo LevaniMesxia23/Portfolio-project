@@ -19,7 +19,7 @@ export const Projects = () => {
 const projects = [
   {
     title: "Audiophile-ecommerce-website",
-    imgSrc: "project-imgs/rame.jpg",
+    imgSrc: "project-imgs/audiophileImg.jpg",
     code: "https://github.com/LevaniMesxia23/audiophile-ecommerce-website",
     projectLink: "https://audiophile-ecommerce-website-sable.vercel.app/",
     tech: ["React.js", "TypeScript", "Tailwind CSS", "React Hooks", "Yup", "Helmet"],
@@ -43,39 +43,29 @@ const projects = [
     ),
   },
   {
-    title: "The Canvas Club",
-    imgSrc: "project-imgs/example-project.jpg",
-    code: "https://www.github.com",
-    projectLink: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-    tech: ["Node", "Express", "Postgres", "Kafka", "Redis"],
+    title: "Invoice-App",
+    imgSrc: "project-imgs/invoiceImg.jpg",
+    code: "https://github.com/LevaniMesxia23/invoice-app",
+    projectLink: "https://invoice-app-team-team-3.vercel.app",
+    tech: ["React.js", "TypeScript", "Tailwind CSS", "Framer-Motion", "Yup"],
     description:
-      "A social community for painters to connect with others in their community. I handle everything backend (50K monthly active users).",
+      "This is a web application for managing and generating invoices.",
     modalContent: (
       <>
         <p>
-          The Canvas Club is a social community for painters to connect with
-          others in their community.
+        This is a web application for managing and generating invoices.
         </p>
         <p>
-          I work primarily on the backend, a collection of Node & Express
-          microservices. Data is stored primarily in Postgres & cached in Redis.
+        The app is built using React, TypeScript, and Vite, ensuring a fast and efficient development experience.
         </p>
         <p>
-          The team in total consists of 5 developers. This is a passion project
-          for all of us.
+        The project involves developing an Invoice Management System that provides a comprehensive set of functionalities, including creating, reading, updating, filtering, and deleting invoices. It is designed to be responsive, ensuring optimal usability on both desktop and mobile devices.
         </p>
         <p>
-          Because this isn&apos;t real, here&apos;s some gibberish to fill space{" "}
-          {":)"}
+        The application leverages local storage for data persistence, allowing users to save and retrieve invoice data efficiently.
         </p>
         <p>
-          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aspernatur
-          quia officia odio nulla consectetur aperiam ad tempora magni magnam
-          nesciunt.
-        </p>
-        <p>
-          Fuga id sapiente facere ipsa eius exercitationem officiis deleniti,
-          rerum dolorum. Deserunt soluta modi culpa animi.
+        A modern user interface is crafted using Tailwind CSS, giving the application a sleek and contemporary appearance.
         </p>
       </>
     ),
@@ -83,7 +73,7 @@ const projects = [
   {
     title: "BrushWire",
     imgSrc: "project-imgs/example-project.jpg",
-    code: "https://www.github.com",
+    code: "https://github.com/LevaniMesxia23/invoice-app",
     projectLink: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
     tech: ["NextJS", "Java", "Spring", "AWS Aurora"],
     description:
