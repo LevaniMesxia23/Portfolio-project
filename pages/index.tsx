@@ -5,8 +5,8 @@ export default function home() {
   return (
     <>
       <Head>
-        <title>Bob Ross | Web Developer</title>
-        <meta name="description" content="Bleep boop" />
+        <title>Levani Mesxia | Web Developer</title>
+        <meta name="description" content="Levani Mesxia" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
