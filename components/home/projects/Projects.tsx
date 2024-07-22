@@ -99,29 +99,22 @@ const projects = [
     ),
   },
   {
-    title: "Paint Reference 4",
-    imgSrc: "project-imgs/example-project.jpg",
-    code: "https://www.github.com",
-    projectLink: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-    tech: ["Python", "FastAPI", "SQLAlchemy"],
+    title: "Planets Fact Site",
+    imgSrc: "project-imgs/planets.jpg",
+    code: "https://github.com/LevaniMesxia23/Planets-fact-site",
+    projectLink: "https://planets-fact-site-6qzr-f10irtwt3-levanis-projects-b6e33a8c.vercel.app/",
+    tech: ["React.js", "TypeScript", "styled-components", "React Router"],
     description:
-      "I couldn't think of another paint reference app, so here we are. I think you get the idea, right? Use your imagination 🌈",
+      "Planets Fact Site is a responsive web application providing detailed information about the planets in our solar system.",
     modalContent: (
       <>
-        <p>Alright, you got me. I&apos;m all out of paint references.</p>
+        <p>This responsive website offers an engaging way to explore information about the planets. </p>
+        <p>Key features include interactive details, smooth animations, and a design that adapts to any device.</p>
         <p>
-          Point is, use this space to explain a bit further WHAT this project
-          is, as well as what YOU contributed to it.
-        </p>
-        <p>You get the idea. Now more lorem {":)"}</p>
-        <p>
-          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aspernatur
-          quia officia odio nulla consectetur aperiam ad tempora magni magnam
-          nesciunt.
+        Built using React for dynamic components, React Router for seamless navigation, Framer Motion for animations, and Styled Components for scoped styling, the site provides a modern user experience.
         </p>
         <p>
-          Fuga id sapiente facere ipsa eius exercitationem officiis deleniti,
-          rerum dolorum. Deserunt soluta modi culpa animi.
+        Users can delve into detailed planet facts through an engaging interface that features smooth animations and a design optimized for all devices.
         </p>
       </>
     ),
