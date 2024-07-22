@@ -16,24 +16,24 @@ export const Contact = () => {
           <p className={styles.contactCopy}>
             Shoot me an email if you want to connect! You can also find me on{" "}
             <Link
-              href="https://www.linkedin.com"
+              href="https://www.linkedin.com/in/levani-mesxia-570803296/"
               target="_blank"
               rel="nofollow"
             >
               Linkedin
             </Link>{" "}
             or{" "}
-            <Link href="https://www.twitter.com" target="_blank" rel="nofollow">
-              Twitter
+            <Link href="https://www.facebook.com/levani.mesxia.04" target="_blank" rel="nofollow">
+              Facebook
             </Link>{" "}
             if that&apos;s more your speed.
           </p>
         </Reveal>
         <Reveal width="100%">
-          <Link href="mailto:bob.ross@notreal.com">
+          <Link href="mailto:levanimesxia10@gmail.com">
             <div className={styles.contactEmail}>
               <AiFillMail size="2.4rem" />
-              <span>bob.ross@notreal.com</span>
+              <span>levanimesxia10@gmail.com</span>
             </div>
           </Link>
         </Reveal>
