@@ -71,32 +71,29 @@ const projects = [
     ),
   },
   {
-    title: "BrushWire",
-    imgSrc: "project-imgs/example-project.jpg",
-    code: "https://github.com/LevaniMesxia23/invoice-app",
-    projectLink: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-    tech: ["NextJS", "Java", "Spring", "AWS Aurora"],
+    title: "Entertainment Web App",
+    imgSrc: "project-imgs/webApp.jpg",
+    code: "https://github.com/LevaniMesxia23/entertainment-web-app",
+    projectLink: "https://entertainment-web-app-virid.vercel.app",
+    tech: ["React.js", "Typescript", "Tailwind CSS", "React Router", "Hook-Form"],
     description:
-      "Think Zapier but for paint. Built with a team of four college friends and scaled to > 1 billion requests per day. This was a fun one.",
+      "This application serves as a platform for users to explore and enjoy various forms of entertainment",
     modalContent: (
       <>
         <p>
-          Brush wire is essentially Zapier but for paint. Built with a team of
-          four college friends and scaled to {">"} 1 billion requests per day.
-          This was a fun one.
+        Welcome to the Entertainment Web App!
         </p>
         <p>
-          Since &quot;Zapier for paint&quot; doesn&apos;t mean anything, be
-          creative {":)"}
+        This application serves as a platform for users to explore and enjoy various forms of entertainment, including movies and TV shows.
         </p>
         <p>
-          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aspernatur
-          quia officia odio nulla consectetur aperiam ad tempora magni magnam
-          nesciunt.
+        It offers an extensive browsing experience through a vast collection of movies and TV shows, enhanced by advanced search capabilities for quick and easy access to desired content.
         </p>
         <p>
-          Fuga id sapiente facere ipsa eius exercitationem officiis deleniti,
-          rerum dolorum. Deserunt soluta modi culpa animi.
+        Users can personalize their experience by adding items to their favorites and watchlist, making it convenient to revisit their preferred content later.
+        </p>
+        <p>
+        The application boasts a fully responsive design, providing an optimal viewing experience on all devices, whether desktop, tablet, or mobile. Its interactive user interface is enriched with engaging animations and smooth transitions, delivering a visually appealing and immersive user experience.
         </p>
       </>
     ),
