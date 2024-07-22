@@ -19,10 +19,7 @@ export const Hero = () => {
         </Reveal>
         <Reveal>
           <p className={styles.aboutCopy}>
-            I&apos;ve spent the last 5 years building and scaling software for
-            some pretty cool companies. I also teach people to paint online
-            (incase you&apos;ve got an empty canvas layin&apos; around 🎨).
-            Let&apos;s connect!
+          My Favorite thing is to start something new and build it in an organized way. I love technology and I can only see myself being successful here. Programming gives me a great opportunity to present myself.
           </p>
         </Reveal>
         <Reveal>
