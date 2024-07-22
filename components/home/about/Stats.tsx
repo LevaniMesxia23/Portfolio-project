@@ -19,16 +19,6 @@ export const Stats = () => {
             <span className="chip">React</span>
             <span className="chip">Redux</span>
             <span className="chip">GitHub</span>
-          </div>
-        </div>
-      </Reveal>
-      <Reveal>
-        <div className={styles.statColumn}>
-          <h4>
-            <AiFillSmile size="2.4rem" color="var(--brand)" />
-            <span>Use for fun</span>
-          </h4>
-          <div className={styles.statGrid}>
             <span className="chip">Tailwind</span>
             <span className="chip">Figma</span>
             <span className="chip">Styled Components</span>
@@ -36,6 +26,7 @@ export const Stats = () => {
           </div>
         </div>
       </Reveal>
+      
     </div>
   );
 };

@@ -18,12 +18,14 @@ export const About = () => {
           </Reveal>
           <Reveal>
             <p className={styles.aboutText}>
-              I currently work in Upwork.
+              I currently work as a freelancer.
             </p>
           </Reveal>
           <Reveal>
             <p className={styles.aboutText}>
-            In addition to programming, I love sports, I try to constantly develop myself, mental ability is important, but I always try to be physically healthy and strong.
+            My discipline and hard work allow me to say that I have made great steps.
+            I love technology and I can only see myself being successful here. Programming gives me a great
+            opportunity to present myself.
             </p>
           </Reveal>
           <Reveal>
