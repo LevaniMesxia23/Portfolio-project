@@ -18,36 +18,26 @@ export const Projects = () => {
 
 const projects = [
   {
-    title: "Paint.app",
-    imgSrc: "project-imgs/example-project.jpg",
-    code: "https://www.github.com",
-    projectLink: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-    tech: ["Flutter", "MUI", "Python", "FastAPI"],
+    title: "Audiophile-ecommerce-website",
+    imgSrc: "project-imgs/rame.jpg",
+    code: "https://github.com/LevaniMesxia23/audiophile-ecommerce-website",
+    projectLink: "https://audiophile-ecommerce-website-sable.vercel.app/",
+    tech: ["React.js", "TypeScript", "Tailwind CSS", "React Hooks", "Yup", "Helmet"],
     description:
-      "A real-time coaching app for students learning to paint. This app is my baby, designed and built on my own.",
+      "Users can browse products, view detailed descriptions, add items to their cart, and complete their purchase seamlessly.",
     modalContent: (
       <>
         <p>
-          Pain.app is a real-time coaching app for students learning to paint.
-          This app is my baby, designed and built on my own.
+          Welcome to the Audiophile E-commerce Website project!
         </p>
         <p>
-          The tech stack is based on top of Flutter for the mobile app,
-          connected to a Python & FastAPI backend, with data stored in Postgres,
-          deployed on Heroku.
+          This application is designed to provide an exceptional shopping experience for audiophiles seeking high-quality audio equipment.
         </p>
         <p>
-          Because this isn&apos;t real, here&apos;s some gibberish to fill space{" "}
-          {":)"}
+        Users can browse products, view detailed descriptions, add items to their cart, and complete their purchase seamlessly.
         </p>
         <p>
-          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aspernatur
-          quia officia odio nulla consectetur aperiam ad tempora magni magnam
-          nesciunt.
-        </p>
-        <p>
-          Fuga id sapiente facere ipsa eius exercitationem officiis deleniti,
-          rerum dolorum. Deserunt soluta modi culpa animi.
+        I made the project using React, with React hooks and other additional tools, it was a particularly pleasant process to make a checkout in this application, in which I used yup, in my opinion, yup simplifies the work and is flexible at the same time
         </p>
       </>
     ),
