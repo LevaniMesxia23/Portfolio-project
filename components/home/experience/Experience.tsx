@@ -15,7 +15,7 @@ export const Experience = () => {
 const experience = [
   {
     title: "UpWork",
-    position: "Full Stack Developer",
+    position: "Front end Developer",
     time: "2024 - Present",
     location: "Georgia",
     description:
