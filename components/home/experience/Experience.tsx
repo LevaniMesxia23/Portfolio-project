@@ -13,23 +13,40 @@ export const Experience = () => {
 };
 
 const experience = [
-  {
-    title: "UpWork",
-    position: "Front end Developer",
-    time: "2024 - Present",
+  { 
+    title: "Web Canvas Geo",
+    position: "Front end Developer" ,
+    time: "September 2024 - Present",
     location: "Georgia",
     description:
-      "After I realized that I could already solve other people's problems with my knowledge, Upwork was the first step in my employment, which helped me a lot to deepen my knowledge and gain experience.",
+      "I contribute to front-end development tasks, including building user interfaces with modern web technologies and maintaining code quality.",
     tech: [
       "React",
       "Javascript",
       "Typescript",
       "Git",
       "GitHub",
-      "Tailwind css",
-      "Html",
-      "Css",
+      "Tailwind CSS",
+      "HTML",
+      "CSS",
     ],
   },
-  
+  {
+    title: "UpWork",
+    position: "Junior Front end Developer" ,
+    time: "January 2024 - September 2024",
+    location: "Georgia",
+    description:
+      "UpWork was my first step in employment, where I solved client problems using front-end technologies, further deepening my skills.",
+    tech: [
+      "React",
+      "Javascript",
+      "Typescript",
+      "Git",
+      "GitHub",
+      "Tailwind CSS",
+      "HTML",
+      "CSS",
+    ],
+  }
 ];

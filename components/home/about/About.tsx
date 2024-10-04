@@ -18,7 +18,7 @@ export const About = () => {
           </Reveal>
           <Reveal>
             <p className={styles.aboutText}>
-              I currently work as a freelancer.
+            I currently work as a frontend developer at Web Canvas Geo.
             </p>
           </Reveal>
           <Reveal>
